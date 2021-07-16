@@ -3,6 +3,7 @@
 
 ### how to update and follow the original authore,
 download picoCore.0.3.5.zip  
+\picoCore\hardware\avr\0.2.1\cores\picocore\ 
 https://emn178.github.io/online-tools/sha256_checksum.html, upload and see SHA hash  
 edit https://github.com/xiaolaba/xiaolaba.github.io/tree/master/json/package_xiaolaba_picoCore_index.json to include this new version,    
 edit https://github.com/xiaolaba/xiaolaba.github.io/blob/master/index.html, it will update and push automativally,  
