@@ -1,5 +1,16 @@
 ## this is fork of https://github.com/nerdralph/picoCore
 
+
+### how to update and follow the original authore,
+download picoCore.0.3.5.zip  
+https://emn178.github.io/online-tools/sha256_checksum.html, upload and see SHA hash  
+edit https://github.com/xiaolaba/xiaolaba.github.io/tree/master/json/package_xiaolaba_picoCore_index.json to include this new version,    
+edit https://github.com/xiaolaba/xiaolaba.github.io/blob/master/index.html, it will update and push automativally,  
+try and see effective, https://xiaolaba.github.io/json/package_xiaolaba_picoCore_index.json  
+include this path, https://xiaolaba.github.io/json/package_xiaolaba_picoCore_index.json
+Arduino IDE broad manager, to auto update  
+
+
 ### trying to json of github and easy & auto installation.  
 testing, 2020-05-19, done
 
