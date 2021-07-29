@@ -3,16 +3,17 @@
 
 ### how to update and follow the original authore,
 download picoCore.0.3.5.zip  
-\picoCore\hardware\avr\0.2.1\cores\picocore\ 
+\picoCore\hardware\avr\0.2.1\cores\picocore\  
+
 https://emn178.github.io/online-tools/sha256_checksum.html, upload and see SHA hash 
 
 or uses Win10 buil-in tool to see sha256  
 [/win10_sha256_tool](/win10_sha256_tool)  
 
-edit https://github.com/xiaolaba/xiaolaba.github.io/tree/master/json/package_xiaolaba_picoCore_index.json to include this new version,    
-edit https://github.com/xiaolaba/xiaolaba.github.io/blob/master/index.html, it will update and push automativally,  
-try and see effective, https://xiaolaba.github.io/json/package_xiaolaba_picoCore_index.json  
-include this path, https://xiaolaba.github.io/json/package_xiaolaba_picoCore_index.json
+edit https://github.com/xiaolaba/xiaolaba.github.io/tree/master/json/package_xiaolaba_picoCore_index.json to include this new version,     
+edit https://github.com/xiaolaba/xiaolaba.github.io/blob/master/index.html, it will update and push automativally,   
+try and see effective, https://xiaolaba.github.io/json/package_xiaolaba_picoCore_index.json   
+include this path, https://xiaolaba.github.io/json/package_xiaolaba_picoCore_index.json  
 Arduino IDE broad manager, to auto update  
 
 
