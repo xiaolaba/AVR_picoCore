@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+;xiaolaba, use WIn10 powershell to get SHA256 of a file
+;ref: 
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\gethash]
+; Right click menu will show this, "Get File Hash SHA256"
+@="Get File Hash SHA256"
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\gethash\command]
+;copy to clip board
+@="powershell -WindowStyle Minimized -command get-filehash -literalpath '%1' -algorithm SHA256 | fl  | clip"
+;copy to local file, append mode
+@="powershell -WindowStyle Minimized -command get-filehash -literalpath '%1' -algorithm SHA256 | fl  | Out-File -Append -FilePath xialaba_sha256.txt"
+
+
+
