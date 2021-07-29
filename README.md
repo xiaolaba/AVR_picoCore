@@ -4,6 +4,15 @@
 ### how to update and follow the original authore,
 download picoCore.0.3.5.zip  
 \picoCore\hardware\avr\0.2.1\cores\picocore\  
+C:\Users\%user%\AppData\Local\Arduino15\packages\picoCore\hardware\avr\0.3.5
+\cores
+\libraries
+boards.txt
+LICENSE
+out.txt
+platform.txt
+programmers.txt
+README.md
 
 https://emn178.github.io/online-tools/sha256_checksum.html, upload and see SHA hash 
 
