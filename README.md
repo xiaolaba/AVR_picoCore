@@ -50,7 +50,7 @@ clone ![picoCore.zip](picoCore.zip), unzip and move the whole folder to the path
 
 C:\Users\ YOUR_USER_NAME \AppData\Local\Arduino15\packages\  
 
-[%userprofile%\AppData\Local\Arduino15\packages](%userprofile%\AppData\Local\Arduino15\packages)  
+[local:%userprofile%\AppData\Local\Arduino15\packages](loccal:%userprofile%\AppData\Local\Arduino15\packages)  
 
 
 
