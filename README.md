@@ -3,8 +3,11 @@
 
 ### how to update and follow the original authore,
 download picoCore-0.3.5.zip  
-\picoCore\hardware\avr\0.2.1\cores\picocore\  
-installed path C:\Users\%user%\AppData\Local\Arduino15\packages\picoCore\hardware\avr\0.3.5
+  
+installed path,   
+```
+%userprofile%\AppData\Local\Arduino15\packages\picoCore\hardware\avr\0.3.5
+```
 
 picoCore-0.3.5.zip, file structure, root folfer must be picoCore-0.3.5,  
 ```
