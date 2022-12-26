@@ -1,7 +1,7 @@
 ## this is fork of https://github.com/nerdralph/picoCore
 
 
-### how to update and follow the original authore,
+### how to update and follow the original author,
 download picoCore-0.3.5.zip  
   
 installed path,   
